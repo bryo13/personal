@@ -14,6 +14,8 @@
 	
 	
 	<a href="mailto:brian.tum10@yahoo.com"><strong>brian.tum10@yahoo.com</strong><p></a>	
+
+	<h3>Golang and SvelteKit Freelacer </h3>
 	<a href="https://twitter.com/BrianTum13"><Icon data={twitterSquare} scale=4 class="pinkIcon"/></a>
 	<a href="https://github.com/bryo13"><Icon data={githubSquare} scale=4 /></a>
 	<a href="https://drive.google.com/file/d/1uC-SoYeOTlCdIYYKiasZ-0KhlrMoA2aL/view?usp=sharing"><Icon data={fileO} label="CV" scale=4/></a>
@@ -30,7 +32,7 @@
 		left:50px;
 		top:44px;
 		width: 440px;
-		height: 300px;
+		height: 330px;
 		background: rgba(255,255,255,0.5);
 		border-radius: 20px;
 		border: 2px solid #fff;
@@ -40,7 +42,7 @@
             .glass {
 		    width:350px;
 		    font-size: 17px;
-		    height:270px;
+		    height:300px;
 		    position:absolute;
 		    top:90px;
 		    left:18px;
