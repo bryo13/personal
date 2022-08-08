@@ -3,7 +3,6 @@
 	import twitterSquare from 'svelte-awesome/icons/twitterSquare';
 	import fileO from 'svelte-awesome/icons/fileO';
 	import githubSquare from 'svelte-awesome/icons/githubSquare';
-	import { copy } from 'svelte-copy';
 </script>
 
 
@@ -11,7 +10,7 @@
 <div id="me"> 
 	<strong>Brian Kipchumba Tum</strong><p>
 
-		<strong>Copy: +254 716 012619</strong><p>
+		<strong>+254 716 012619</strong><p>
 	
 	
 	<a href="mailto:brian.tum10@yahoo.com"><strong>brian.tum10@yahoo.com</strong><p></a>	
