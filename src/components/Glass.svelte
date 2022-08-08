@@ -46,7 +46,7 @@
 		    height:270px;
 		    position:absolute;
 		    top:90px;
-		    left:23px;
+		    left:21px;
             }
          }
 
