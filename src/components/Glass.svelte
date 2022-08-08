@@ -14,7 +14,7 @@
 		<strong>Copy: +254 716 012619</strong><p>
 	
 	
-	<a href="brian.tum10@yahoo.com"><strong>brian.tum10@yahoo.com</strong><p></a>	
+	<a href="mailto:brian.tum10@yahoo.com"><strong>brian.tum10@yahoo.com</strong><p></a>	
 	<a href="https://twitter.com/BrianTum13"><Icon data={twitterSquare} scale=4 class="pinkIcon"/></a>
 	<a href="https://github.com/bryo13"><Icon data={githubSquare} scale=4 /></a>
 	<a href="https://drive.google.com/file/d/1uC-SoYeOTlCdIYYKiasZ-0KhlrMoA2aL/view?usp=sharing"><Icon data={fileO} label="CV" scale=4/></a>
@@ -44,7 +44,7 @@
 		    height:270px;
 		    position:absolute;
 		    top:90px;
-		    left:13px;
+		    left:18px;
             }
          }
 
