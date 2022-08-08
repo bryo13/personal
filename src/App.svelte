@@ -47,11 +47,16 @@
 	}
 
 	@media screen and (max-width: 790px) {
+
+	.svg {
+		display: inline;
+		left: 66px;
+	}
 		.path{
 			position: relative;
 			top: 300px;
 			left:20px;
-			height:420px;
+			height:419px;
 			width: 420px;
 		}
 

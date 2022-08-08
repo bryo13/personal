@@ -3,13 +3,19 @@
 	import twitterSquare from 'svelte-awesome/icons/twitterSquare';
 	import fileO from 'svelte-awesome/icons/fileO';
 	import githubSquare from 'svelte-awesome/icons/githubSquare';
+	import { copy } from 'svelte-copy';
 </script>
 
 
 <div class="glass">
 <div id="me"> 
 	<strong>Brian Kipchumba Tum</strong><p>
-		<a href="+254716012619"><strong>+254 716 012619</strong><p></a>
+
+	<button use:copy={"+254 716 012619"}>
+		<strong>Copy: +254 716 012619</strong><p>
+	</button>
+	
+	<p>
 	<a href="mailto:name@email.com"><strong>brian.tum10@yahoo.com</strong><p></a>	
 	<a href="https://twitter.com/BrianTum13"><Icon data={twitterSquare} scale=4 class="pinkIcon"/></a>
 	<a href="https://github.com/bryo13"><Icon data={githubSquare} scale=4 /></a>
@@ -33,14 +39,14 @@
 		border: 2px solid #fff;
 		overflow: hidden;
 	}
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 570px) {
             .glass {
 		    width:350px;
 		    font-size: 17px;
 		    height:270px;
 		    position:absolute;
 		    top:90px;
-		    left:30px;
+		    left:13px;
             }
          }
 
